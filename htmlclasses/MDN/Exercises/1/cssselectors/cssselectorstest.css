@@ -1,0 +1,28 @@
+h1{
+            font-family: 'Rubik Mono One', sans-serif;
+        }
+        h2{
+            font-family: 'Slabo', serif;
+        }
+        h3{
+            font-family: 'UnifrakturCook', cursive;
+        }
+
+        #selectorById{
+            font-family: 'Tangerine', serif;
+            text-shadow: 4px 4px 4px #aaa;
+            font-size:'20px';
+            color: green;
+        }
+
+        ul {
+           list-style: none;
+           border: solid 2px #ccc;
+        }
+
+        .button {
+           padding: 20px;
+           margin: 10px;
+           width: 240px;
+           border: solid 3px #ccc;
+        }
